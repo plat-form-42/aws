@@ -1,3 +1,5 @@
+https://github.com/plat-form-42/aws/tree/main/03-03-bash
+
 * cp
 * cut
 * tail
