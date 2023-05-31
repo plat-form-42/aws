@@ -1,3 +1,4 @@
+* cp
 * cut
 * tail
 * head
@@ -6,7 +7,7 @@
 * wc
 * cut
 * man
-* touch, >
+* touch, >, |
 * git add / clone / commit
 
 shebang --> #!/bin/bash
