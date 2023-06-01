@@ -13,7 +13,7 @@
 * man
 * touch
 * |
-* >
+* \\>
 * git add
 * git clone
 * git commit
