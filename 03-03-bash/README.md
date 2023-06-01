@@ -1,7 +1,9 @@
 
-
+* cd
+* mkdir
 * cp
 * cut
+* diff
 * tail
 * head
 * grep
@@ -9,10 +11,15 @@
 * wc
 * cut
 * man
-* touch, >, |
-* git add / clone / commit
+* touch
+* |
+* >
+* git add
+* git clone
+* git commit
+* git push 
 
-shebang --> #!/bin/bash
+
 
 
 * cat passwd
@@ -21,5 +28,10 @@ shebang --> #!/bin/bash
 * cat passwd  |grep asega | uniq
 * cat passwd | cut -d ':' -f 1
 * cat passwd | cut -d ':' -f 1 > machin
+* diff passwd passwd.orig
 
+shebang --> #!/bin/bash
 
+* Lister toutes les addresses
+* Creer un fichier avec toutes les addresses uniques
+* Combien d'addresses IPs uniques
