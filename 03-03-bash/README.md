@@ -13,7 +13,9 @@
 * man
 * touch
 * |
-* \\>
+* mv
+* rm 
+* \>
 * git add
 * git clone
 * git commit
